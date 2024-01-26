@@ -1,0 +1,101 @@
+a {
+    text-decoration: none;
+    color: #000;
+}
+.mypageBody {
+    height: 94vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.2);
+}
+.mypageContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow: 0px 19px 40px 0px rgba(0, 0, 0, 0.1);
+    width: 450px;
+    height: 500px;
+    padding: 50px;
+    padding-top: 70px;
+    border-radius: 5px;
+}
+.logoText {
+    display: flex;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+    align-self: center;
+}
+.textBox {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 3px;
+    /* input 박스가 프레임밖으로 벗어나는걸 막음 */
+    word-break: break-all;
+    box-sizing: border-box;
+    background: rgba(220, 220, 220, 0.2);
+    margin-bottom: 20px;
+}
+.textBox img {
+    width: 20px;
+    float: right;
+    margin: 8px 10px 2px;
+    cursor: pointer;
+}
+.client .textBox {
+    width: 95%;
+    margin: 8px auto 16px;
+}
+.inputBox {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 3px;
+    /* input 박스가 프레임밖으로 벗어나는걸 막음 */
+    box-sizing: border-box;
+    background: rgba(21, 166, 86, 0.2);
+    margin-bottom: 20px;
+}
+
+.inputBox:focus {
+    outline: none;
+}
+.apiTokenRefreshBtn {
+    box-sizing: border-box;
+    width: 150px;
+    margin-bottom: 20px;
+    padding: 5px;
+    border: 3px solid #15a656;
+    background-color: #15a656;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 10px;
+    cursor: pointer;
+    align-self: center;
+}
+.apiTokenRefreshBtn:hover {
+    background-color: #fff;
+    color: #15a656;
+}
+.client {
+    width: 95%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+.clientText {
+    margin: 10px;
+    font-weight: 900;
+}
+.clientContent {
+    margin: 12px;
+    display: block;
+    width: 95%;
+    box-sizing: border-box;
+}

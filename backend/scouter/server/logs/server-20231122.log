@@ -1,0 +1,351 @@
+20231122 13:23:16 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:23:16 [PID]3924
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:23:16 Load Account Group File
+20231122 13:23:16 Load Account File
+20231122 13:23:16 udp listen 0.0.0.0:6100
+20231122 13:23:16 	udp_host=0.0.0.0
+20231122 13:23:16 	udp_port=6100
+20231122 13:23:16 	udp_buffer=65535
+20231122 13:23:16 	udp_so_rcvbuf=4194304
+20231122 13:23:16 Load Account Group File
+20231122 13:23:16 Load Account File
+20231122 13:23:16 	tcp_port=6100
+20231122 13:23:16 	cp_agent_so_timeout=60000
+20231122 13:23:16 	cp_client_so_timeout=8000
+20231122 13:23:21 [A1601] error on toClass with javassist. try to fallback for java8 below. err:Class not in same package as lookup class: scouter.server.plugin.impl.Neighbor has no permission to define the class
+20231122 13:23:21 [S215] Alert rule detected : ErrorRate.alert
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.IAlert loaded #x6srrhs
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.ICounter loaded #xb1qvks
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.IObject loaded #x1m5q9g9
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.IXLog loaded #x1tep94d
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.IXLog loaded #x16fg6r7
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #xudvo5i
+20231122 13:23:21 PLUG-IN : scouter.server.plugin.ISummary loaded #x1bg3u2u
+20231122 13:23:34 [S145] GeoIP db file is not readable : C:\Users\SSAFY\Desktop\scouter\scouter\server\conf\GeoLiteCity.dat
+20231122 13:25:14 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:25:14 [PID]7432
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:25:14 Load Account Group File
+20231122 13:25:14 Load Account File
+20231122 13:25:14 udp listen 0.0.0.0:6100
+20231122 13:25:14 	udp_host=0.0.0.0
+20231122 13:25:14 	udp_port=6100
+20231122 13:25:14 	udp_buffer=65535
+20231122 13:25:14 	udp_so_rcvbuf=4194304
+20231122 13:25:14 Load Account Group File
+20231122 13:25:14 Load Account File
+20231122 13:25:14 	tcp_port=6100
+20231122 13:25:14 	cp_agent_so_timeout=60000
+20231122 13:25:14 	cp_client_so_timeout=8000
+20231122 13:25:54 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:25:54 [PID]18488
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:25:54 Load Account Group File
+20231122 13:25:54 Load Account File
+20231122 13:25:54 udp listen 0.0.0.0:6100
+20231122 13:25:54 	udp_host=0.0.0.0
+20231122 13:25:54 	udp_port=6100
+20231122 13:25:54 	udp_buffer=65535
+20231122 13:25:54 	udp_so_rcvbuf=4194304
+20231122 13:25:54 Load Account Group File
+20231122 13:25:54 Load Account File
+20231122 13:25:54 	tcp_port=6100
+20231122 13:25:54 	cp_agent_so_timeout=60000
+20231122 13:25:54 	cp_client_so_timeout=8000
+20231122 13:26:00 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:26:00 [PID]20540
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:26:04 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:26:04 [PID]9580
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:26:04 Load Account Group File
+20231122 13:26:04 Load Account File
+20231122 13:26:04 udp listen 0.0.0.0:6100
+20231122 13:26:04 	udp_host=0.0.0.0
+20231122 13:26:04 	udp_port=6100
+20231122 13:26:04 	udp_buffer=65535
+20231122 13:26:04 	udp_so_rcvbuf=4194304
+20231122 13:26:04 Load Account Group File
+20231122 13:26:04 Load Account File
+20231122 13:26:04 	tcp_port=6100
+20231122 13:26:04 	cp_agent_so_timeout=60000
+20231122 13:26:04 	cp_client_so_timeout=8000
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/FastInfoset-1.2.13.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/activation-1.1.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/aopalliance-repackaged-2.5.0-b42.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-5.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-commons-5.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-tree-5.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/classmate-1.0.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-codec-1.11.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-collections-3.2.2.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-lang3-3.6.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-logging-1.2.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/geoip-api-1.3.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/guava-20.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hamcrest-core-1.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hibernate-validator-5.1.3.Final.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-api-2.5.0-b42.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-locator-2.5.0-b42.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-utils-2.5.0-b42.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/httpclient-4.5.13.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/httpcore-4.4.13.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/istack-commons-runtime-3.0.5.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-annotations-2.12.6.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-core-2.8.11.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-databind-2.12.6.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-dataformat-yaml-2.8.9.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-module-jaxb-annotations-2.8.10.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jansi-1.4.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javassist-3.29.2-GA.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax-websocket-client-impl-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax-websocket-server-impl-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.activation-api-1.2.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.annotation-api-1.2.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.el-2.2.4.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.el-api-2.2.4.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.inject-1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.inject-2.5.0-b42.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.servlet-api-3.1.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.websocket-api-1.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.ws.rs-api-2.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-api-2.3.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-core-2.3.0.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-core-2.3.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-impl-2.3.0.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-runtime-2.3.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jboss-logging-3.1.3.GA.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-bean-validation-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-client-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-common-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-container-servlet-core-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-entity-filtering-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-hk2-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-jaxb-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-json-jackson-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-multipart-2.25.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-server-2.27.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-annotations-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-client-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-http-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-io-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-jndi-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-plus-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-security-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-server-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-servlet-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-util-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-webapp-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-xml-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jline-2.10.6.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/json-simple-1.1.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jsqlparser-0.9.4.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/junit-4.10.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/logback-classic-1.2.3.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/logback-core-1.2.3.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/mimepull-1.9.6.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/osgi-resource-locator-1.0.1.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/reflections-0.9.11.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scala-library-2.11.12.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scala-reflect-2.11.12.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scouter-server-2.20.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scouter-webapp-2.20.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/slf4j-api-1.7.25.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/snakeyaml-1.17.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/stax-ex-1.7.8.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-annotations-1.5.16.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-core-1.5.16.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-jaxrs-1.5.16.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-jersey2-jaxrs-1.5.16.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-models-1.5.16.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/txw2-2.3.0.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/validation-api-1.1.0.Final.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-api-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-client-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-common-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-server-9.4.6.v20170531.jar
+20231122 13:26:09 [S219] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-servlet-9.4.6.v20170531.jar
+20231122 13:26:09 [A1601] error on toClass with javassist. try to fallback for java8 below. err:Class not in same package as lookup class: scouter.server.plugin.impl.Neighbor has no permission to define the class
+20231122 13:26:09 [S215] Alert rule detected : ErrorRate.alert
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/FastInfoset-1.2.13.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/activation-1.1.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/aopalliance-repackaged-2.5.0-b42.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-5.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-commons-5.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/asm-tree-5.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/classmate-1.0.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-codec-1.11.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-collections-3.2.2.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-lang3-3.6.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/commons-logging-1.2.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/geoip-api-1.3.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/guava-20.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hamcrest-core-1.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hibernate-validator-5.1.3.Final.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-api-2.5.0-b42.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-locator-2.5.0-b42.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/hk2-utils-2.5.0-b42.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/httpclient-4.5.13.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/httpcore-4.4.13.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/istack-commons-runtime-3.0.5.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-annotations-2.12.6.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-core-2.8.11.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-databind-2.12.6.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-dataformat-yaml-2.8.9.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jackson-module-jaxb-annotations-2.8.10.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jansi-1.4.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javassist-3.29.2-GA.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax-websocket-client-impl-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax-websocket-server-impl-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.activation-api-1.2.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.annotation-api-1.2.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.el-2.2.4.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.el-api-2.2.4.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.inject-1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.inject-2.5.0-b42.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.servlet-api-3.1.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.websocket-api-1.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/javax.ws.rs-api-2.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-api-2.3.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-core-2.3.0.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-core-2.3.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-impl-2.3.0.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jaxb-runtime-2.3.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jboss-logging-3.1.3.GA.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-bean-validation-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-client-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-common-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-container-servlet-core-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-entity-filtering-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-hk2-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-jaxb-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-json-jackson-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-media-multipart-2.25.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jersey-server-2.27.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-annotations-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-client-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-http-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-io-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-jndi-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-plus-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-security-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-server-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-servlet-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-util-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-webapp-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jetty-xml-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jline-2.10.6.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/json-simple-1.1.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/jsqlparser-0.9.4.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/junit-4.10.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/logback-classic-1.2.3.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/logback-core-1.2.3.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/mimepull-1.9.6.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/osgi-resource-locator-1.0.1.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/reflections-0.9.11.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scala-library-2.11.12.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scala-reflect-2.11.12.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scouter-server-2.20.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/scouter-webapp-2.20.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/slf4j-api-1.7.25.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/snakeyaml-1.17.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/stax-ex-1.7.8.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-annotations-1.5.16.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-core-1.5.16.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-jaxrs-1.5.16.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-jersey2-jaxrs-1.5.16.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/swagger-models-1.5.16.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/txw2-2.3.0.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/validation-api-1.1.0.Final.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-api-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-client-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-common-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-server-9.4.6.v20170531.jar
+20231122 13:26:09 [S229] [Error]/C:/Users/SSAFY/Desktop/최종%20제출/backend/scouter/server/./lib/websocket-servlet-9.4.6.v20170531.jar
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.IAlert loaded #x6n3q5q
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.ICounter loaded #xv2291a
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.IObject loaded #xn81gbs
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.IXLog loaded #x1fvk7ho
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.IXLog loaded #x1ks79nc
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #x1s5jj4n
+20231122 13:26:09 PLUG-IN : scouter.server.plugin.ISummary loaded #x7l3sic
+20231122 13:26:20 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:26:20 [PID]9040
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:35:03 Scouter Server Version 2.20.0 2023-05-29 05:14 GMT
+20231122 13:35:03 [PID]9944
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.20.0
+ 
+20231122 13:35:03 Load Account Group File
+20231122 13:35:03 Load Account File
+20231122 13:35:03 udp listen 0.0.0.0:6100
+20231122 13:35:03 	udp_host=0.0.0.0
+20231122 13:35:03 	udp_port=6100
+20231122 13:35:03 	udp_buffer=65535
+20231122 13:35:03 	udp_so_rcvbuf=4194304
+20231122 13:35:03 Load Account Group File
+20231122 13:35:03 Load Account File
+20231122 13:35:03 	tcp_port=6100
+20231122 13:35:03 	cp_agent_so_timeout=60000
+20231122 13:35:03 	cp_client_so_timeout=8000
+20231122 13:35:05 [S104] New OBJECT  objType=tomcat objHash=xatcqg3 objName=/DESKTOP-BLHP263/WAS-01 addr=127.0.0.1 2.20.0 2023-05-29 05:14 GMT_ENV_java8plus alive 2023-11-22 13:35:05.407 {detected=tomcat,ADC=false}
+20231122 13:35:08 [A1601] error on toClass with javassist. try to fallback for java8 below. err:Class not in same package as lookup class: scouter.server.plugin.impl.Neighbor has no permission to define the class
+20231122 13:35:08 [S215] Alert rule detected : ErrorRate.alert
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.IAlert loaded #xhtk9uf
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.ICounter loaded #xgur138
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.IObject loaded #x1djjaip
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.IXLog loaded #xrvja78
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.IXLog loaded #x46og5
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #xluglf2
+20231122 13:35:08 PLUG-IN : scouter.server.plugin.ISummary loaded #x19nu3n2
+20231122 13:35:53 [S145] GeoIP db file is not readable : C:\Users\SSAFY\Desktop\final\backend\scouter\server\conf\GeoLiteCity.dat
+20231122 13:42:00 [S104] New OBJECT  objType=windows objHash=z1aejk55 objName=/DESKTOP-BLHP263 addr=127.0.0.1 2.20.0 2023-05-29 05:14 GMT alive 2023-11-22 13:42:00.456 {detected=windows,podName=,kubeSeq=-1,useKubeSeq=false,hostName=DESKTOP-BLHP263}

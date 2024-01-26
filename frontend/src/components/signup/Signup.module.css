@@ -1,0 +1,121 @@
+.signupBody {
+  min-height: 94vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.signupContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #fff;
+  box-shadow: 0px 19px 40px 0px rgba(0, 0, 0, 0.1);
+  width: 450px;
+  height: 500px;
+  padding: 50px;
+  padding-top: 70px;
+  border-radius: 5px;
+}
+
+.logoText {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.signupTitle {
+  font-size: 1rem;
+  font-weight: 900;
+}
+.signupBox {
+  display: flex;
+  width: 100%;
+  font-weight: 900;
+  color: #000000;
+  flex-direction: column;
+}
+
+.signupInnerBox {
+  display: flex;
+}
+
+.signupText {
+  margin: 7px 0 7px 0;
+}
+
+.signupInput {
+  width: 100%;
+  padding: 10px;
+  font-size: 0.8rem;
+  border: none;
+  border-radius: 3px;
+  /* input 박스가 프레임밖으로 벗어나는걸 막음 */
+  box-sizing: border-box;
+  background: rgba(220, 220, 220, 0.2);
+  margin-bottom: 10px;
+}
+
+.signupInput:focus {
+  outline: none;
+}
+.checkBtn {
+  border: 2px solid #15a656;
+  background-color: white;
+  color: #15a656;
+  border-radius: 10px;
+  width: 30%;
+  height: 32px;
+  margin-left: 2%;
+  font-weight: 700;
+  cursor: pointer;
+}
+.checkBtn:active {
+  top: 2px;
+  position: relative;
+}
+.disabledButton {
+  border: 2px solid #c9e8cf;
+  background-color: white;
+  color: #c9e8cf;
+  border-radius: 10px;
+  width: 30%;
+  height: 32px;
+  margin-left: 2%;
+  font-weight: 700;
+}
+.authTimerY {
+  font-size: 0.5em;
+  font-weight: 500;
+  /* margin: 0px 0px 10px 0px; */
+  color: #2898f1;
+  padding-left: 65%;
+}
+.authTimerN {
+  font-size: 0.5em;
+  font-weight: 500;
+  /* margin: 0px 0px 20px 0px; */
+  color: white;
+  padding-left: 65%;
+}
+.signupBtn {
+  box-sizing: border-box;
+  width: 100px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 3px solid #15a656;
+  background-color: #15a656;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  border-radius: 10px;
+  cursor: pointer;
+  align-self: center;
+}
+.signupBtn:hover {
+  box-sizing: border-box;
+  border: 3px solid #15a656;
+  background-color: #fff;
+  color: #15a656;
+}

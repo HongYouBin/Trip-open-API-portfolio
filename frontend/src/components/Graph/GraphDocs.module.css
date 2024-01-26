@@ -1,0 +1,36 @@
+.backBody {
+  border: 1px solid #fff;
+}
+
+.boardContainer {
+  /* position: absolute; */
+
+  /* background-color: #282c34; */
+  /* border: 1px solid blue; */
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+  border-radius: 10px;
+  padding: 20px;
+  /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
+  width: 1200px;
+  margin: 20px auto;
+}
+
+.boardTop {
+  background-image: url("../../assets/img/wave.png");
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 20px; */
+  color: black;
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+}
+
+.boardContent {
+  display: flex;
+}

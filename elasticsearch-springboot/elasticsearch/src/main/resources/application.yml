@@ -1,0 +1,29 @@
+spring:
+  elasticsearch:
+    uris: 
+    username: 
+    password: 
+    connection-timeout: 
+    socket-timeout: 
+    host: 
+    port: 
+  data:
+    elasticsearch:
+      repositories:
+        enabled: true
+logging:
+  level:
+    org.springframework.data.elasticsearch.client.WIRE:
+  config: 
+
+
+info:
+  analyzer:
+    nori : 
+    nori-with-length :
+    nori-ngram :
+  index:
+    wiki:
+server:
+  servlet:
+    context-path: 

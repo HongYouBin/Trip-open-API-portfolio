@@ -1,0 +1,63 @@
+server:
+  port: 
+  tomcat:
+    threads:
+#      min: 200
+#      max: 500
+#      min-spare: 200
+
+#      max: 400
+#      min-spare: 150
+#    max-connections: 200
+
+url:
+  host: 
+
+spring:
+  jackson:
+    time-zone: Asia/Seoul
+  data:
+    mongodb:
+      uri: 
+  datasource:
+    driver-class-name: 
+    url: 
+    username: 
+    password: 
+  jpa:
+    open-in-view: false
+    properties:
+      hibernate:
+        show_sql: false
+        format_sql: true
+        use_sql_comments: false
+        ddl-auto: none
+  logging:
+    level:
+      org.hibernate.SQL: debug
+      org.hibernate.type: trace
+      org.springframework: DEBUG
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: 
+    password:
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  redis:
+    host: 
+    port: 
+    password: 
+jwt:
+  secretKey: 
+host:
+  url: 
+
+
+

@@ -1,0 +1,110 @@
+a {
+    text-decoration: none;
+    color: #000;
+}
+.loginBody {
+    height: 94vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*
+    메인화면 배경 도형
+  */
+    background: rgba(255, 255, 255, 0.2);
+    background-size: cover;
+}
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0px 19px 40px 0px rgba(0, 0, 0, 0.1);
+    width: 450px;
+    height: 500px;
+    padding: 50px;
+    padding-top: 70px;
+    border-radius: 5px;
+}
+
+.textContainer {
+    width: 75%;
+}
+
+.logoSubText {
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.logoText {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.inputContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.loginInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 3px;
+    /* input 박스가 프레임밖으로 벗어나는걸 막음 */
+    box-sizing: border-box;
+    background: rgba(220, 220, 220, 0.2);
+}
+
+.loginInput:first {
+    margin-bottom: 20px;
+}
+
+.loginInput:focus {
+    outline: none;
+}
+
+.loginBtn {
+    box-sizing: border-box;
+    width: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 3px solid #15a656;
+    background-color: #15a656;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 10px;
+    cursor: pointer;
+    align-self: center;
+}
+.loginBtn:hover {
+    box-sizing: border-box;
+    border: 3px solid #15a656;
+    background-color: #fff;
+    color: #15a656;
+}
+.otherContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.rightBorder {
+    border-right: 1px solid #b9b9b9;
+    text-align: center;
+}
+.otherBtn {
+    flex: 1;
+    color: #000000;
+    font-weight: 600;
+}
+.alignRight {
+    text-align: center;
+}

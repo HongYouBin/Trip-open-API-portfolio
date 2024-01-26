@@ -1,0 +1,140 @@
+.contentBody {
+  /* border: solid 3px purple; */
+  margin: 50px auto;
+  /* background-color: #282c34; */
+  width: 840px;
+  min-width: 800px;
+  height: 100%;
+  padding: 10px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contentText {
+  margin-bottom: 5%;
+}
+
+.firstTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.firstTable th {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+}
+
+.firstTable td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.contentBody p {
+  margin: 40px 10px 0;
+}
+
+.code {
+  padding: 0px 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  font-size: 14px;
+  max-height: 500px;
+  overflow-y: auto;
+}
+.testDiv {
+  display: flex;
+  flex-direction: column;
+}
+.testRequestBtn {
+  color: white;
+  background-color: #15a656;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border: 3px solid #15a656;
+  width: 20%;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: 700;
+  align-self: center;
+}
+.testRequestBtn:hover {
+  background-color: #fff;
+  color: #15a656;
+}
+
+.apiRequestDataTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 1.5;
+  word-break: keep-all;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.apiRequestDataTable th {
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: left;
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+  text-align: center;
+}
+
+.apiRequestDataTable td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.apiRequestDataTable td:first-child {
+  width: 10%;
+}
+
+.apiRequestDataTable td:nth-child(2) {
+  width: 10%;
+}
+
+.apiRequestDataTable td:nth-child(3) {
+  width: 10%;
+}
+
+.apiResponseDataTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 1.5;
+  word-break: keep-all;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.apiResponseDataTable th {
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: left;
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+  text-align: center;
+}
+
+.apiResponseDataTable td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.apiResponseDataTable td:first-child {
+  width: 23%;
+}

@@ -1,0 +1,18 @@
+.footer {
+  background: rgba(230, 230, 230, 0.42);
+  padding: 8px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 6vh;
+}
+
+.footer > *:last-child {
+  margin-top: 10px;
+  opacity: 0.6;
+}
+
+.footer > * {
+  font-size: 13px;
+}

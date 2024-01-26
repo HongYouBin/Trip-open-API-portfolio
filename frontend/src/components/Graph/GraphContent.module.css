@@ -1,0 +1,21 @@
+.contentBody {
+  /* border: solid 3px purple; */
+  margin: 50px auto;
+  /* background-color: #282c34; */
+  width: 840px;
+  min-width: 800px;
+  height: 100%;
+  padding: 10px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.Title {
+  padding-bottom: 2%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.iframeBody {
+}
