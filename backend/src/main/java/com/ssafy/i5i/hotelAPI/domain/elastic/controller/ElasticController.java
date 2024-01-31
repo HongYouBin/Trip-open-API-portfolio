@@ -19,12 +19,6 @@ import java.util.List;
 public class ElasticController {
     private final ElasticService elasticService;
 
-    //테스트용
-    @GetMapping("/test")
-    public Mono<String> test(){
-        return elasticService.test();
-    }
-
     //특정 컬럼의 Keyword 매칭 검색 ->
     //사용자에게 제공하지 않는 서비스
     @GetMapping("/keyword")

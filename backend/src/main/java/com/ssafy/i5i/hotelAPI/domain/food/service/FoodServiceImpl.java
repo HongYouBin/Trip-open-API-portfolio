@@ -33,20 +33,6 @@ public class FoodServiceImpl implements FoodService{
 
 	public static final Double EARTH_RADIUS = 6371.0;
 	@Override
-	// public List<FoodResponseDto.TitleD> getFoodFromTravle(FoodRequestDto.Title requestDto) {
-	// 	log.info("title : {}",requestDto.getAttractionName());
-	// 	return foodRepository.getFoodFromTravle(requestDto.getAttractionName())
-	// 		.orElseThrow(() -> new CommonException(ExceptionType.NULL_POINT_EXCEPTION))
-	// 		.stream()
-	// 		.map(data -> {
-	// 			FoodResponseDto.TitleD now = data.convertToFDto();
-	// 			now.setDistance(calculateDistance(now.getAttractionLatitude(), now.getAttractionLongitude(), now.getFoodLatitude(), now.getFoodLongitude()));
-	// 			return now;
-	// 		})
-	// 		.filter(dto -> dto.getDistance() < requestDto.getDistance())
-	// 		.sorted(getFoodTitleComparator(requestDto.getSorted()))
-	// 		.collect(Collectors.toList());
-	// }
 	public List<FoodResponseDto.Coordi> getFoodFromTravle(FoodRequestDto.Title requestDto) {
 		if(requestDto.getPage() <= 0 || requestDto.getMaxResults() <= 0) throw new CommonException(ExceptionType.PAGE_MAXRESULTS_EXCEPTION);
 
@@ -160,20 +146,5 @@ public class FoodServiceImpl implements FoodService{
 			throw new CommonException(ExceptionType.SORTED_TYPE_EXCEPTION);
 		}
 	}
-
-	// private Comparator<FoodResponseDto.TitleD> getFoodTitleComparator(String sortingKey) {
-	// 	if(sortingKey.isEmpty() || sortingKey == null || sortingKey.equals("DISTANCE")){
-	// 		return Comparator.comparing(FoodResponseDto.TitleD::getDistance);
-	// 	}
-	// 	else if ("JJIM".equals(sortingKey)) {
-	// 		return Comparator.comparing(FoodResponseDto.TitleD::getFoodJjim);
-	// 	} else if ("SCORE".equals(sortingKey)) {
-	// 		return Comparator.comparing(FoodResponseDto.TitleD::getFoodScore);
-	// 	} else if ("STAR".equals(sortingKey)) {
-	// 		return Comparator.comparing(FoodResponseDto.TitleD::getFoodStar);
-	// 	} else {
-	// 		throw new CommonException(ExceptionType.SORTED_TYPE_EXCEPTION);
-	// 	}
-	// }
 }
 

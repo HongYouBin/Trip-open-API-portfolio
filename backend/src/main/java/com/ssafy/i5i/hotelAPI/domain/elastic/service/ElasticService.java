@@ -19,7 +19,6 @@ import java.util.Optional;
 @Service
 public class ElasticService {
     private final WebClient webClient;
-
     public ElasticService(@Value("${url.host}") String baseUrl){
         this.webClient = WebClient.builder()
                 .baseUrl(baseUrl+"/elastic/api/wiki")

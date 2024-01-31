@@ -11,7 +11,6 @@ import java.util.List;
 @Setter
 @Slf4j
 public class ApiDataDto {
-
     @Getter
     @Setter
     @Builder

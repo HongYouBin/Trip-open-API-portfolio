@@ -44,7 +44,6 @@ public class SecurityConfig {
             "/docs/service",
             "/docs/service/login",
             "/api/**",
-            "/**"
     };
 
     @Bean
@@ -62,7 +61,6 @@ public class SecurityConfig {
                 .and()
                 //token 확인용 filter
                 .addFilterBefore(new ApiTokenCheckFilter(tokenService), UsernamePasswordAuthenticationFilter.class)
-
                 //URL 허용
                 .authorizeHttpRequests()
                 .antMatchers(HttpMethod.OPTIONS, "/**").permitAll()
@@ -70,7 +68,6 @@ public class SecurityConfig {
                 .antMatchers("/api/**").permitAll()
                 .anyRequest().authenticated()
                 .and()
-
                 //docs용 로그인 jwt 검증 필터
                 .addFilterBefore(new JwtAuthenticationFilter(), UsernamePasswordAuthenticationFilter.class)
         ;
